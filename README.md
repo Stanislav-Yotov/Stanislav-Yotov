@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stanislav-Yotov
-- 👀 I’m interested in programming
+- 👀 I’m interested in .NET
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on anything I can
 - 📫 How to reach me: iotov934@gmail.com
