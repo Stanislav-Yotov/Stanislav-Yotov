@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stanislav-Yotov
-- 👀 I’m interested in .NET
-- 🌱 I’m currently studying C#
+- 👀 I’m interested in .NET technologies
+- 🌱 I’m currently studying C# and JavaScript
 - 📫 How to reach me: iotov934@gmail.com
 
 <!---
