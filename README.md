@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stanislav-Yotov
-- 👀 I’m interested in .NET technologies
-- 🌱 I’m currently studying C# and JavaScript
+- 👀 I’m interested in front-end technologies
+- 🌱 I’m currently studying NodeJS and React
 - 📫 How to reach me: iotov934@gmail.com
 
 <!---
