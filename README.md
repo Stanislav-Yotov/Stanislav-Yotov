@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stanislav-Yotov
 - 👀 I’m interested in front-end technologies
-- 🌱 I’m currently studying NodeJS and React
+- 🌱 I’m currently working as a desktop developer
 - 📫 How to reach me: iotov934@gmail.com
 - Check out my website: https://stanislav-yotov.tech
 
