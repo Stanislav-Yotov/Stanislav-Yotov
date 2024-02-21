@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Stanislav-Yotov
-- 👀 I’m interested in front-end technologies
 - 🌱 I’m currently working as a mobile developer
 - 📫 How to reach me: iotov934@gmail.com
 
