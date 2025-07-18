@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stanislav-Yotov
-- 🌱 I’m currently working as a mobile developer
+- 🌱 I’m currently working as a Delphi developer
 - 📫 How to reach me: iotov934@gmail.com
 
 <!---
